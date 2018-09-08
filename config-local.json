@@ -1,0 +1,5 @@
+{
+    "mongoPath" : "mongodb://localhost:27017/gym",
+    "sessionSecret" : "monkaS",
+    "secureCookie" : false
+}
